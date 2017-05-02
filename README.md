@@ -20,7 +20,7 @@ yarn add transition.css
 ## usage
 
 ```html
-<figure class="Example transition transition-filter">
+<figure class="Example transition transition-opacity">
   Example
 </figure>
 ```
