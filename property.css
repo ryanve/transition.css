@@ -1,0 +1,27 @@
+.transition-color {
+  transition-property: color, background-color, border-color, outline-color;
+}
+
+.transition-filter {
+  transition-property: filter;
+}
+
+.transition-opacity {
+  transition-property: opacity;
+}
+
+.transition-transform {
+  transition-property: transform;
+}
+
+.transition-gpu {
+  transition-property: transform, opacity;
+}
+
+.transition-composite {
+  transition-property: transform, opacity, z-index, cursor;
+}
+
+.transition-none {
+  transition-property: none;
+}
